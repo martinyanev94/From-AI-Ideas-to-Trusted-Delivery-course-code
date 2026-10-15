@@ -1,0 +1,35 @@
+[
+  {
+    "project_id": "business-aligned-data-strategy",
+    "title": "Business-Aligned Data Strategy Roadmap",
+    "value": "funded sequence aligned to business priorities",
+    "readiness": "pilot",
+    "provenance": "critical inputs mapped with owners and quality notes",
+    "ethical_risk": "sponsor and affected users must review the use context",
+    "owner": "portfolio sponsor",
+    "next_decision": "fund pilot",
+    "evidence": ["roadmap production gates", "sponsor alignment brief"]
+  },
+  {
+    "project_id": "data-team-operating-model",
+    "title": "Data Team and Data Service Operating Model",
+    "value": "reliable intake and accountable handoffs",
+    "readiness": "pilot",
+    "provenance": "service workflow and role coverage recorded",
+    "ethical_risk": "unclear ownership could route requests without accountable review",
+    "owner": "service lead",
+    "next_decision": "approve pilot",
+    "evidence": ["validated intake transitions", "role coverage check"]
+  },
+  {
+    "project_id": "ethical-ai-impact-review",
+    "title": "Ethical AI Impact Assessment",
+    "value": "context-specific review before a high-stakes decision",
+    "readiness": "revise",
+    "provenance": "critical inputs linked to evidence records",
+    "ethical_risk": "human review and challenge controls remain unresolved",
+    "owner": "impact review owner",
+    "next_decision": "resolve controls before pilot",
+    "evidence": ["impact dimensions", "challenge workflow"]
+  }
+]
